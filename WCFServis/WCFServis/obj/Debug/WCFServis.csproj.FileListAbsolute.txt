@@ -1,0 +1,6 @@
+C:\Users\38160\source\repos\WCFServis\WCFServis\bin\Debug\WCFServis.dll.config
+C:\Users\38160\source\repos\WCFServis\WCFServis\bin\Debug\WCFServis.dll
+C:\Users\38160\source\repos\WCFServis\WCFServis\bin\Debug\WCFServis.pdb
+C:\Users\38160\source\repos\WCFServis\WCFServis\obj\Debug\WCFServis.csprojAssemblyReference.cache
+C:\Users\38160\source\repos\WCFServis\WCFServis\obj\Debug\WCFServis.dll
+C:\Users\38160\source\repos\WCFServis\WCFServis\obj\Debug\WCFServis.pdb

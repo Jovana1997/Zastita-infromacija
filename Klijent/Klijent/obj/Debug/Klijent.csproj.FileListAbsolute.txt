@@ -1,0 +1,9 @@
+C:\Users\38160\source\repos\Klijent\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\38160\source\repos\Klijent\Klijent\bin\Debug\Klijent.exe
+C:\Users\38160\source\repos\Klijent\Klijent\bin\Debug\Klijent.pdb
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.csprojAssemblyReference.cache
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.Form1.resources
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.csproj.GenerateResource.cache
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.exe
+C:\Users\38160\source\repos\Klijent\Klijent\obj\Debug\Klijent.pdb

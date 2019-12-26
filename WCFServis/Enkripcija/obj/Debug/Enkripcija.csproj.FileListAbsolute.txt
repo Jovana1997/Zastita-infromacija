@@ -1,0 +1,5 @@
+C:\Users\38160\source\repos\WCFServis\Enkripcija\bin\Debug\Enkripcija.dll
+C:\Users\38160\source\repos\WCFServis\Enkripcija\bin\Debug\Enkripcija.pdb
+C:\Users\38160\source\repos\WCFServis\Enkripcija\obj\Debug\Enkripcija.csprojAssemblyReference.cache
+C:\Users\38160\source\repos\WCFServis\Enkripcija\obj\Debug\Enkripcija.dll
+C:\Users\38160\source\repos\WCFServis\Enkripcija\obj\Debug\Enkripcija.pdb
